@@ -1,3 +1,4 @@
+// DO NOT SUBMIT
 local id = 'NOAA/GOES/16/FDCC';
 local subdir = 'NOAA';
 
